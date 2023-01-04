@@ -2,8 +2,6 @@
 
 [![Build Status](http://ec2-3-232-24-155.compute-1.amazonaws.com/buildStatus/icon?job=pi-chalenge)](http://ec2-3-232-24-155.compute-1.amazonaws.com/job/pi-chalenge/)
 
-[![Build Status](http://ec2-3-232-24-155.compute-1.amazonaws.com/buildStatus/icon?job=pi-chalenge)](http://ec2-3-232-24-155.compute-1.amazonaws.com/job/pi-chalenge/)
-
 You're on a team developing an algorithm that calculates the value of pi.
 
 The code for the project is being stored in a GitHub repository. The team wants to test the latest changes to the algorithm with every push to the repo.
